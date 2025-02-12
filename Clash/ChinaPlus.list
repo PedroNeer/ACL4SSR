@@ -3,3 +3,6 @@ DOMAIN-SUFFIX,deepseek.com
 
 #linux-do
 DOMAIN-SUFFIX,linux.do  
+
+#bilibili
+PROCESS-NAME,哔哩哔哩 Helper
