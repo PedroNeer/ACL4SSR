@@ -1,6 +1,10 @@
 #deepseek
 DOMAIN-SUFFIX,deepseek.com
 
+#worker
+DOMAIN-SUFFIX,gh.pedro-neer.workers.dev
+DOMAIN-SUFFIX,gh-proxy.com
+
 #linux-do
 DOMAIN-SUFFIX,linux.do  
 
