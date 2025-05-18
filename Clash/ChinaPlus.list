@@ -3,6 +3,7 @@ DOMAIN-SUFFIX,deepseek.com
 
 #worker
 DOMAIN-SUFFIX,gh.pedroneer.dpdns.org
+DOMAIN-SUFFIX,ghapi.pedroneer.dpdns.org
 DOMAIN-SUFFIX,gh-proxy.com
 
 #linux-do
